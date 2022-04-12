@@ -9,7 +9,7 @@
 <br>
 
 
-🔭 I’m currently working on a full-stack project for a compamy based in Switzerland: My-Tangram.(www.my-tangram.com)
+🔭 I’m currently working on a full-stack project for a compamy based in Switzerland: <a href="https://www.my-tangram.com" target="_blank" rel="noreferrer">My Tangram</a>.</h4>
 
 <br>
 
